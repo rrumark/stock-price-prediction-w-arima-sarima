@@ -8,7 +8,7 @@ This project includes code for forecasting stock prices using several time serie
 1. Import Dataset
 
 ```python
-data = pd.read_csv(r'C:\Users\admin\Downloads\NSE-TATAGLOBAL.csv')
+data = pd.read_csv (r'path_to_your_file/NSE-TATAGLOBAL.csv')
 ```
 2. Convert Date Column and Reverse Data
 ```python
