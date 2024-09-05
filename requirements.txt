@@ -1,0 +1,8 @@
+pmdarima
+statsmodels
+prophet
+pandas-profiling
+seaborn
+numpy
+matplotlib
+sklearn
