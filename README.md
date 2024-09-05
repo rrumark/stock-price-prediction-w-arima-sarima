@@ -1,1 +1,1 @@
-# stock-price-prediction-w-arima-sarima
+# "Stock Price Prediction Using Time Series Analysis
